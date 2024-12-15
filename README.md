@@ -28,6 +28,11 @@ Technologies:
 - Matplotlib
 - NumPy
 
+## Graphs ##
+
+![image](https://github.com/user-attachments/assets/28f30537-6666-4a90-bc7a-373d037aa2f6)
+
+
 ## Attributions & Remarks ##
 The entirity of this project rested on the kind help of the following websites, especially Coursera and analyticsvidhya. As always, ChatGPT proved an immense help and guidance where much time and effort was saved.
 
