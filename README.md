@@ -29,7 +29,7 @@ Technologies:
 - NumPy
 
 ## Graphs ##
-
+### Test data images with labels ###
 ![image](https://github.com/user-attachments/assets/28f30537-6666-4a90-bc7a-373d037aa2f6)
 
 
